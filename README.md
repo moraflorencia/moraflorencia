@@ -29,7 +29,7 @@ Además de lo técnico, me considero una persona extrovertida y curiosa, que dis
 ---
 
 ## 📈 Mis estadísticas en GitHub
-![Florencia's GitHub stats](https://github-readme-stats.vercel.app/api?username=florm01&show_icons=true&theme=radical)
+![Florencia's GitHub stats](https://github-readme-stats.vercel.app/api?username=moraflorencia&show_icons=true&theme=radical)
 
 <!--
 **moraflorencia/moraflorencia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
