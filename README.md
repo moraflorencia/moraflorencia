@@ -1,6 +1,6 @@
 # ¡Hola! 👋😊 Soy Florencia Milagros Mora
 
-![GIF](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmdnOGxmMmYxbmFmcDN4YmpsOW1jamZwZTE3ZnQ1eTI4NnF2Y25rMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wzJ67MJMk6UMM/giphy.gif)
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmdnOGxmMmYxbmFmcDN4YmpsOW1jamZwZTE3ZnQ1eTI4NnF2Y25rMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wzJ67MJMk6UMM/giphy.gif" alt="GIF" width="300" />
 
 ## 🧑‍💻 Sobre mí
 Soy estudiante de Ingeniería en Sistemas de Información. Me apasiona trabajar con datos, diseño visual y todo lo relacionado con la creación de dashboards, presentaciones, PDFs y páginas web. Tengo conocimientos en programación, manejo de Excel y Power BI, así como habilidades en diseño asistido por computadora.
