@@ -26,10 +26,6 @@ Además de lo técnico, me considero una persona extrovertida y curiosa, que dis
 ## 🔗 Conectemos
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/florm01) [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mora.florencia.m@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-FF7F50?style=flat&logo=google-chrome&logoColor=white)](https://florenciamilagrosmora.netlify.app/)
 
----
-
-## 📈 Mis estadísticas en GitHub
-![Florencia's GitHub stats](https://github-readme-stats.vercel.app/api?username=moraflorencia&show_icons=true&theme=radical)
 
 <!--
 **moraflorencia/moraflorencia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
