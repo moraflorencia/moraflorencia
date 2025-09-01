@@ -1,6 +1,7 @@
-# ¡Hola! 👋😊 Soy Florencia Milagros Mora
-
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmdnOGxmMmYxbmFmcDN4YmpsOW1jamZwZTE3ZnQ1eTI4NnF2Y25rMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wzJ67MJMk6UMM/giphy.gif" alt="GIF" width="300" />
+<!-- Encabezado con ola -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:B39DDB,100:81D4FA&height=200&section=header&text=¡Hola,%20soy%20Flor!%20🌸&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%"/>
+<p align="center">
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmdnOGxmMmYxbmFmcDN4YmpsOW1jamZwZTE3ZnQ1eTI4NnF2Y25rMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wzJ67MJMk6UMM/giphy.gif" alt="GIF" width="350" />
 
 ## 🧑‍💻 Sobre mí
 Soy estudiante de Ingeniería en Sistemas de Información. Me apasiona trabajar con datos, diseño visual y todo lo relacionado con la creación de dashboards, presentaciones, PDFs y páginas web. Tengo conocimientos en programación, manejo de Excel y Power BI, así como habilidades en diseño asistido por computadora.
@@ -23,10 +24,23 @@ Además de lo técnico, me considero una persona extrovertida y curiosa, que dis
 
 ---
 
-## 🔗 Conectemos
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/florm01) [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mora.florencia.m@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-FF7F50?style=flat&logo=google-chrome&logoColor=white)](https://florenciamilagrosmora.netlify.app/)
+### 🌐 Conectemos
+<p align="center">
+  <a href="https://www.linkedin.com/in/florm01" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:mora.florencia.m@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://florenciamilagrosmora.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF7F50?style=flat&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://wa.me/5491160184046" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+</p>
 
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:81D4FA,100:B39DDB&height=100&section=footer"/>
 <!--
 **moraflorencia/moraflorencia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
